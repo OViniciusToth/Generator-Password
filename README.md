@@ -1,4 +1,5 @@
 # Generator-Password
 This code is for generating passwords for accounts.
 
-# Como iniciar
+# How to begin
+Open the cmd where the installed file is
